@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sham Lal, BSAI student at Air University Islamabad
+- 👋 Hi, I’m Sham Lal, BSAI 3rd Semester student at Air University Islamabad
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Python libraries like Scikit-Learn, Pandas, Numpy, OpenCv, Matplotlib, Seaborn and Tensorflow
 - 💞️ I’m looking to internship
